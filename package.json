@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "node-html-parser": "^5.2.0",
+    "parse-request": "^4.0.0",
+    "request": "^2.88.2",
+    "request-cloudflare": "^2.0.0",
+    "simple-text-parser": "^2.1.1"
+  }
+}
